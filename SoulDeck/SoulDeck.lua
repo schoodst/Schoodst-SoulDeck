@@ -28,13 +28,5 @@ SMODS.Back{
             return true
             end
         }))
-         G.E_MANAGER:add_event(Event({
-            func = function()
-                local c = G.P_CENTERS.j_ring_master
-                c:add_to_deck(false)
-                c:set_edition(edition.polychrome, 1, 1)
-            return true
-            end
-        }))
     end
 }
