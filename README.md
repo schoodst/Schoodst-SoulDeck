@@ -10,7 +10,7 @@
 ## Specific Strategies
 ### Perkeo Duping (1)
 - Use souls for all 5 legendaries (DONT USE MORE WITHOUT SHOWMAN. YOU WILL GET BASE JOKER)
-- Pray to Jimbo you get showman
+- ~~Pray to Jimbo you get showman~~ **You now start with a poly showman in 1.0.1**
 - Get showman, and use it to farm souls for Infinite Perkeo
 - Get telescope and observatory, and find a planet card for your best played (which should be FlFive at this point)
 - duplicate with 83 Perkeos for ultra scaling till naninf
