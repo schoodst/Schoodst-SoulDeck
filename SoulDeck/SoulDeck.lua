@@ -28,7 +28,7 @@ SMODS.Back{
             return true
             end
         }))
-         G.E_MANAGER:add_event(Event({
+        G.E_MANAGER:add_event(Event({
             func = function()
                 local c = SMODS.create_card {
                     set = "Joker",
