@@ -1,0 +1,15 @@
+{
+    "id": "Schoodst-SoulDeck",
+    "name": "Soul Deck",
+    "version": "1.0",
+    "author": ["Schoodst"],
+    "description": "Really stupid deck",
+    "prefix": "SSD",
+    "main_file": "SoulDeck.lua",
+    "display_name": "SoulDeck",
+    "dependencies": [
+        "Steamodded (>=1.0.0~)",
+		"Lovely (>=0.6.0~)",
+        "Balatro (>=1.0.0)"
+    ]
+}
